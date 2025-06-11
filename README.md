@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **frontend and machine learning**
 
-- 🌱 I’m currently learning **javascript and AI, ML**
+- 🌱 I’m currently learning **Javascript and AI, ML**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 📫 How to reach me **asimdkt63@gmail.com**
 
-- ⚡ Fun fact **I think i am weird.**
+- ⚡ Fun fact **I like music and dancing.🕺🪩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
