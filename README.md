@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asim Poudel</h1>
-<h3 align="center">A Bachelor in Computer Enginnering Student.</h3>
+<h3 align="center">A Bachelors in Computer Enginnering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim63&label=Profile%20views&color=0e75b6&style=flat" alt="asim63" /> </p>
 
