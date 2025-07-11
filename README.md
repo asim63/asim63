@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Asim+Poudel" alt="Typing SVG" />
 </p>
-<h2 align="center">A Bachelors in Computer Enginnering Student.</h2>
+<h2 align="center">Pursuing Bachelor's in Computer Engineering.</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim63&label=Profile%20views&color=0e75b6&style=flat" alt="asim63" /> </p>
