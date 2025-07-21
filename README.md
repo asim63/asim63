@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **frontend and machine learning**
 
-- 🌱 I’m currently learning **Javascript and AI, ML**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
