@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim63&label=Profile%20views&color=0e75b6&style=flat" alt="asim63" /> </p>
 
-- 🔭 I’m currently working on **frontend and machine learning**
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **web devlopment and machine learning**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
