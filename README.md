@@ -1,35 +1,74 @@
+
+
+<img data-importer="image" align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXN6MXcyYWtpNXluMHIyb2J2aHJndXk4ZzFycW1yamEwMGtud3Y3dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif)"  />
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Asim+Poudel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Asim+Poudel;Computer+Engineering+Student;Curious+by+Nature." alt="Typing SVG" />
 </p>
-<h2 align="center">Pursuing Bachelor's in Computer Engineering.</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXN6MXcyYWtpNXluMHIyb2J2aHJndXk4ZzFycW1yamEwMGtud3Y3dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" height="150" alt="Dancing character" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asim63&label=Profile%20views&color=0e75b6&style=flat" alt="asim63" /> </p>
+<p align="center">
+  A curious, driven enthusiast interested in Data Science, and Data Analytics. Exploring data, understanding patterns, and learning how intelligent systems work.
+</p>
 
-- 🔭 I’m currently working on **web devlopment and machine learning**
-
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 📫 How to reach me **asimdkt63@gmail.com**
-
-- ⚡ Fun fact **I like music and dancing.🕺🪩**
-
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/asim.poudel.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poudel.asim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimpoudel063/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asimdkt63@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asim63&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asim63&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim63&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asim63&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asim63&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,react,nodejs,github,vscode&perline=7" height="48" alt="Technologies and tools" />
+</p>
+
+### Find me around the internet
+
+<p align="center">
+  <a href="https://github.com/asim63">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/asimpoudel063/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/poudel.asim">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:asimdkt63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asim63&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim63&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+
+### GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asim63&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asim63/asim63/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <i>Still learning, still curious.</i>
+</p>
+
 
